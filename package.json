@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matiasotero/Api_NodeJS_Demo/issues"
   },
-  "homepage": "https://github.com/matiasotero/Api_NodeJS_Demo#readme"
+  "homepage": "https://github.com/matiasotero/Api_NodeJS_Demo#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
